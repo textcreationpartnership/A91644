@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Remonstrans redivivus: or, An accompt of the remonstrance and petition, formerly presented by divers citizens of London, to the view of many; and since honoured by the late conspirators, to be placed under their title of extreame ill designes, with the remonstrance it selfe.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91644</idno>
+            <idno type="STC">Wing R1033</idno>
+            <idno type="STC">Thomason E61_21</idno>
+            <idno type="STC">ESTC R12111</idno>
+            <idno type="EEBO-CITATION">99859210</idno>
+            <idno type="PROQUEST">99859210</idno>
+            <idno type="VID">155348</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91644)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155348)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 11:E61[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Remonstrans redivivus: or, An accompt of the remonstrance and petition, formerly presented by divers citizens of London, to the view of many; and since honoured by the late conspirators, to be placed under their title of extreame ill designes, with the remonstrance it selfe.</title>
+               </titleStmt>
+               <extent>[4], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.P. and M.S. for John Rothwell and Thomas Vnderhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>July 25. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>City of London (England). --  Court of Common Council. --  To the honourable the knights, citizens, and burgesses in the Commons House of Parliament assembled, the humble remonstrance and petition, &amp;c.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155348:1"/>
+            <!-- PDF PAGE 15 -->
+            <pb facs="tcp:155348:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 15 -->
+            <p>
+               <hi>REMONSTRANS REDIVIV<g ref="char:V">Ʋ</g>S: OR</hi> AN ACCOMPT OF THE REMONSTRANCE AND PETITION, Formerly preſented by divers Citizens of London, to the view of many; and ſince ho<g ref="char:EOLhyphen"/>noured by the late Conſpirators, to be pla<g ref="char:EOLhyphen"/>ced under their Title of <hi>Extreame ill Deſignes,</hi> With the Remonſtrance it ſelfe.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. P.</hi> and <hi>M. S.</hi> for <hi>John Rothwell</hi> and <hi>Thomas <g ref="char:V">Ʋ</g>nderhill. July</hi> 25. 1643.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:155348:2"/>
+            <!-- PDF PAGE 16 -->
+            <pb facs="tcp:155348:2"/>
+            <!-- PDF PAGE 16 -->
+            <head>
+               <g ref="char:leaf">❧</g> To the Chriſtian Reader.</head>
+            <p>
+               <seg rend="decorInit">T</seg>R<g ref="char:V">Ʋ</g>TH gave beeing and zeale life to the late <hi>Remon<g ref="char:EOLhyphen"/>ſtrance,</hi> and therefore its admi<g ref="char:EOLhyphen"/>red by ſome, how the child of ſuch active parents, ſhould at all live, and be ſo voyd of further motion, as it hath ſeem'd to be, (unleſſe like the River <hi>Anas,</hi> its Current hath been as ſwift as ever, though leſſe viſible) eſpecially when it was never denyed acceptance; What ever <hi>Mercurius Aulicus,</hi> or <hi>Extreame ill Deſignes,</hi> thoſe lying Twinns ſuggeſt, only conceiv'd by ſome not then ſo ſeaſonable, which gave occaſion to the commitment of it, by means wherof it was ſome-while retarded, untill ſhortly after, ſwords prov'd more uſeful then pens, and hands then tongues, as ſtil they ſeem to be: Yet as wel for the ſatisfaction of the deſires of many, as for its own vindication from ſpurious copies, &amp; for that it holds forth nothing derogatory to the good
+<pb facs="tcp:155348:3"/>
+               <!-- PDF PAGE 17 -->of politicall Monarchy, (unleſſe ſuch Kings wil accompt that a diminution of their power which God doth not of his, but an argument of it, <hi>viz.</hi> to affirm, that they cannot act againſt their own eſſence, nor doe injuſtice) Nor to the wiſdome of Parliament (unleſſe to reflect thoſe beames which have ſhined from thoſe two great Luminaries, be to reflect upon themſelves, which cer<g ref="char:EOLhyphen"/>tainly is no more preſumption, then in that Schollar, who to incourage his Maſter in his future labour and in<g ref="char:EOLhyphen"/>ſtructions, ſhews by his Repetitions, what uſefull im<g ref="char:EOLhyphen"/>preſsions his former documents have made:) Nor may it be leſſe uſefull to the leſſe knowing ſort of men, whoſe Candleſticke onely it attempts to be, to hold out, though in a mod<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll of Clay, ſome glimpſes of that borrowed light it hath received, (unleſſe our Religion, Laws and Priviledges, ſhould reſemble thoſe of the <hi>Pope</hi> and <hi>Mahomet,</hi> which like bad wares ever ſell beſt in darkeſt ſhops.) But ſince hereſies have appeared not onely in Church but State, and the end which firſt ani<g ref="char:EOLhyphen"/>mated this, was to unite and ſettle divided judgements in diſtracted times: without expecting further forma<g ref="char:EOLhyphen"/>lities. It now preſents it ſelfe thus to the publique view.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:155348:3"/>
+            <!-- PDF PAGE 17 -->
+            <head>TO THE HONORABLE THE KNIGHTS CITIZENS and Burgeſſes in the Commons Houſe of <hi>Parliament</hi> Aſſembled. The humble Remonſtrance and Petition, &amp;c.</head>
+            <opener>SHEVVETH,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat when with griefe of heart wee re<g ref="char:EOLhyphen"/>member the innumerable grievances ſuffered by us and the whole King<g ref="char:EOLhyphen"/>dome for many yeares before this Par<g ref="char:EOLhyphen"/>liament, in matters that concern'd our Religion, the libetie of our perſons, and freedome of our Eſtates: And call to minde our earneſt deſires of attaining a through repa<g ref="char:EOLhyphen"/>ration by the wiſdome and juſtice of P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rliament, in the exemplary puniſhment of thoſe who had been authors and inſtruments to ſubvert the power and purity of our Religion, and the auncient juſt conſtitution of Govern<g ref="char:EOLhyphen"/>ment. Our ſpirits are confounded within us to confider that after (by the wiſdome, care, and reſolution of this Parliament) we are juſtly freed from thoſe Incendiaries
+<pb n="2" facs="tcp:155348:4"/>
+               <!-- PDF PAGE 18 -->the B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhops and many others the known promoters of Arbitrary Government. And full Remonſtrances made of the Injuries done by Papiſts and others of the Malig<g ref="char:EOLhyphen"/>nant party and their wicked intentions, diſcovered to extirpate the Proteſtant party in the three Kingdomes: After the Proteſtation taken with great ſolemnity by the people of the Land. And after all your many and un<g ref="char:EOLhyphen"/>wearied labours (which with all thankfulnes we acknow<g ref="char:EOLhyphen"/>ledge, to reduce us from miſery and fears, and to eſtabliſh and unite us with the other Kingdomes upon the laſting foundation of truth and peace. By which your proceed<g ref="char:EOLhyphen"/>ings the well-affected party of the Kingdome were juſtly invited to adhere unto you: and to reveale and lay out themſelves as well by bearing of Armes as large Contri<g ref="char:EOLhyphen"/>butions for the advance and maintenance of this moſt juſt and neceſſary warre, with a full reſolution to ſtand or fall with you. And your being poſſeſſed of the King<g ref="char:EOLhyphen"/>domes ſtrength as well by Sea as Land, and of the affecti<g ref="char:EOLhyphen"/>ons of the people ſtill manifeſted by their readines from all Quarters to riſe and appeare in conſiderable bodies for the carrying on of this juſt and undoubted Cauſe. Which with the many deliverances from plotts and trea<g ref="char:EOLhyphen"/>ſons, and the victories already obtained upon all reſolved attempts, afforded great aſſurance of a bleſſed and ſuc<g ref="char:EOLhyphen"/>ceſſefull iſſue. That notwithſtanding all theſe and many more your conſtant endeavours in the midſt of high op<g ref="char:EOLhyphen"/>poſitions, There ſhould ſtill remaine before us as bitter fruits of the inveterate malice of our reſtles enemies (though occaſioned partly by the inſenſibility of many amongſt our ſelves both in Citie and Kingdom) The mi<g ref="char:EOLhyphen"/>ſerable ſufferings of our brethren in <hi>Ireland,</hi> and in hu<g ref="char:EOLhyphen"/>mane conjectures the almoſt irrecoverable eſtate of that Kingdome. The opportunities gained here by the Popiſh
+<pb n="3" facs="tcp:155348:4"/>
+               <!-- PDF PAGE 18 -->and Malignant party (of which the Army raiſed againſt the Parliament conſiſts) as well to invite, convey hither, and entertain the <hi>Iriſh</hi> Rebells, as to gather and increaſe themſelves into formidable forces. The indulgent uſage and eſcapes of many diſcovered and accuſed Traytours, which advanceth the Kings deſigne abroad, and animates the evill party here at home: ſome of them being taken in actuall warre againſt the Parliament (a crime voted to be treaſon,
+<note place="margin">
+                  <hi>Li. Decla. Par.</hi> 576.</note> and they to be proceeded againſt as Traytors) whileſt divers worthy Members of this honourable Houſe, and many others well-affected to the Parliament taken priſoners by the Kings Forces, have been uſed in a moſt inhumane manner. The frequent printing and diſ<g ref="char:EOLhyphen"/>perſing of the Kings Declarations, and many ſcandalous bookes, deſerving exemplary puniſhment; By which and by the Prelaticall and ſcandalous Clergie, have been ſowed the ſeeds of ſedition and inſurrection, inciting to the violating of Magiſtrates and others the moſt active and well-affected of this Citie. The uſuall miſconſtruing and perverting that ſuppoſition of Law, <hi>That Kings can doe no wrong,</hi> which being never intended (as wee con<g ref="char:EOLhyphen"/>ceive) of his perſonall commands and actions, is not<g ref="char:EOLhyphen"/>withſtanding made uſe of to maintaine them, and there<g ref="char:EOLhyphen"/>by in a myſterious manner to deceive the people. All which with their probable conſequences, wee have ſo ſeriouſly conſidered, That as well from the conſiderati<g ref="char:EOLhyphen"/>on thereof, as to the end the beſt men (your chiefeſt friends) may be eſtabliſhed in the truth, and the unre<g ref="char:EOLhyphen"/>ſolved our brethren and neighbours (who out of miſ<g ref="char:EOLhyphen"/>guided conſciences for want of a full and poſitive ſatiſ<g ref="char:EOLhyphen"/>faction and determination of the principles of our Go<g ref="char:EOLhyphen"/>vernment chiefly ſtagger, and to our ſoules griefe re<g ref="char:EOLhyphen"/>maine unſatisfyed through the contrarietie of the Kings
+<pb n="4" facs="tcp:155348:5"/>
+               <!-- PDF PAGE 19 -->and your Commands and Declarations) may be infor<g ref="char:EOLhyphen"/>med and we hope reclaimed. Wee crave leave humbly to recollect and Remonſtrate what are our apprehenſi<g ref="char:EOLhyphen"/>ons, grounded as well upon right reaſon as your owne Declarations being here collected, which are there diſ<g ref="char:EOLhyphen"/>pers't, concerning the true forme and ſtate of our <hi>Engliſh</hi> Government, not doubting but you will continue that ſpirit and courage which juſtly moved you to declare and publiſh thoſe convincing truthes and reſolutions: Which apprehenſions of ours are.</p>
+            <p n="1">1. <note place="margin">Petition of Lords and Commons, 14. <hi>Dec.</hi> 1641.</note> That the ſafety of the people is the Supreme Law; and is the foundation and end of all juſt Government, even of Parliaments themſelves, which alone are in this Kingdome ordained to be Judges of and providers for the ſafety of the Common-wealth: being limited by no Cuſtomes, no Preſidents, nor Statutes made by former Parliaments, but may juſtly doe whatſoever is good in their underſtandings for the ſafety and freedome of the people.
+<note place="margin">
+                  <hi>Lib. Decl.</hi> 265</note>
+            </p>
+            <p n="2">2. <note place="margin">
+                  <hi>Lib. Decl.</hi> 705. <hi>&amp;</hi> 697. 280. 690.</note> That originally the Supreme power being in the whole people, Parliaments were by them conſtituted to manage the ſame for the preſervation and well being of the Common-wealth: So as properly in the Parlia<g ref="char:EOLhyphen"/>ments of <hi>England</hi> acting for the ſame doth the Supreme power reſide;
+<note place="margin">
+                  <hi>Lib. Decl.</hi> 270.</note> from whoſe judgements there is no ap<g ref="char:EOLhyphen"/>peale, being preſumed ever to intend the proper intereſt of the Common-wealth, that is, the ſafety and free<g ref="char:EOLhyphen"/>dome thereof, it being the higheſt of treaſons through feare or favour to neglect or betray the ſame.</p>
+            <p n="3">3. <note place="margin">
+                  <hi>Lib. Decl.</hi> 714.</note> That all juſt Magiſtracy in this Kingdome is a
+<pb n="5" facs="tcp:155348:5"/>
+               <!-- PDF PAGE 19 -->power created by the Kingdom and Parliaments for the execution of Laws, or to governe the people in freedome and ſafety according to the Laws. And is a matter of truſt onely for the good of the people, and to be regula<g ref="char:EOLhyphen"/>ted by the Supreame power. It being moſt agreeable to reaſon that thoſe who by the conſent of all are intruſted with the making of Laws, ſhould direct thoſe that are to put the ſame in execution.</p>
+            <p n="4">4. <note place="margin">
+                  <hi>Lib. Decl.</hi> 701, 702, 703.</note> That all Magiſtrates and Officers of the Kingdome are accomptable to the Parliament, for that otherwiſe the ſafety and freedome of the people would not be ſuf<g ref="char:EOLhyphen"/>ficiently provided for.</p>
+            <p n="5">5. <note place="margin">
+                  <hi>Lib. Decl.</hi> 207<g ref="char:punc">▪</g> 14 <hi>De<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 1641. Petit. of Lords &amp; Commons.</note> That the King (though the chief Magiſtrate or Offi<g ref="char:EOLhyphen"/>cer of the Kingdome) doth not perſonally judge in any Court, nor can of right interpoſe his perſonall command or judgement againſt the proceedings thereof.</p>
+            <p n="6">6. <note place="margin">
+                  <hi>Lib. Decl.</hi> 701, 702.</note> That the calling of Parliaments never was (of right) arbitrary at the Kings will, but a truſt annext to his Of<g ref="char:EOLhyphen"/>fice:
+<note place="margin">4. <hi>Ed.</hi> 3.14. 36. <hi>Ed.</hi> 3.10.</note> And of duty to be called every yeare according to Statutes made in the time of <hi>Edward</hi> the third, which were declarative of the Common Law.</p>
+            <p n="7">7. <note place="margin">
+                  <hi>Lib. Decl</hi> 706.715.</note> That the uſage of paſſing Bills of right and juſtice in Parliament by the King, is but matter of forme annext to his Office and not left to his will:
+<note place="margin">
+                  <hi>Lib. Decl.</hi> 714.703.704.</note> For otherwiſe the ſafety and freedome of the people ſhould depend upon his will, and ſuch proceedings of Parliament be made voyd by his aſſumed negative voyce.</p>
+            <p n="8">8. <note place="margin">
+                  <hi>Lib. Decl.</hi> 701.702,</note> That the diſſolving of Parliaments is alſo a matter
+<pb n="6" facs="tcp:155348:6"/>
+               <!-- PDF PAGE 20 -->of forme belonging to the Kings Office, and not left ar<g ref="char:EOLhyphen"/>bitrary to be diſſolved at his pleaſure without conſent of bo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h Houſes: For then all the affaires of Parliament would neceſſarily depend upon his ſole will, to proceed or conclude, not according to the Supreme Law (the ſafety of the people) but the pleaſure of the King. The Parliament being never of right heretofore nor hereafter to be diſſolved untill themſelves ſignifie that the generall affaires of the Kingdome are fully ſetled.
+<note place="margin">
+                  <hi>Lib. Decl.</hi> 703.704.</note>
+            </p>
+            <p n="9">9. <note place="margin">
+                  <hi>Lib. Decl.</hi> 267.</note> That to Parliaments for the Kingdomes ſafety doe juſtly appertaine the ſtrength of the Kingdome, the diſ<g ref="char:EOLhyphen"/>poſing of our perſons, propriety of our eſtates, and the tranſacting of the great affaires of peace and warre, where<g ref="char:EOLhyphen"/>in the Kingdome is concerned, which for any other per<g ref="char:EOLhyphen"/>ſon or Councell to aſſume or imploy otherwiſe then in the Kingdoms right, and for it's ſafety, is unjuſt, arbitra<g ref="char:EOLhyphen"/>ry, and tyrannicall.</p>
+            <p n="10">10. <note place="margin">
+                  <hi>Lib. Decl</hi> 208. Maſter <hi>Prinus</hi> ſecond part publiſhed by Authoritie of Parliament.</note> That the Kings perſonall and voluntary abſence from Parliament, whereby his Office therein is not diſ<g ref="char:EOLhyphen"/>charged, neither is nor of right can be any hindrance to the making of laws or other proceedings of Parliament for the good and ſafety of the Kingdome.</p>
+            <p>All which wee humbly conceiving to be undoubted fundamentalls of our Government, It is our hearty deſire and prayer, That before it be too late the judgement of the Kingdome may be fully ſetled in the right under<g ref="char:EOLhyphen"/>ſtanding of the truth and equitie thereof, and no longer ſcruple in their obedience to the Supreme power, when the Kings Commands are contrary. That it may be exa<g ref="char:EOLhyphen"/>mined wherein the ſafety and intereſt of the Common<g ref="char:EOLhyphen"/>wealth
+<pb n="7" facs="tcp:155348:6"/>
+               <!-- PDF PAGE 20 -->have ſuffered prejudice, either by the impunitie of Delinquents, the violation of our Lawes, or pervert<g ref="char:EOLhyphen"/>ing the Conſtitutions of our Government, that the au<g ref="char:EOLhyphen"/>thors thereof be made known and ſeverely puniſhed, and divine Juſtice which cryes for vengeance fully ſatisfied. That the juſtnes of the preſent warre, which (for the glory of God, the Government of Chriſt, the regaining and maintenance of our liberties, and the Kingdomes de<g ref="char:EOLhyphen"/>fence againſt utter deſolation) is undertaken by you, may be more fully yet made knowne to the world, and that neither you nor we have done the King any wrong. That the priviledges of this higheſt Court may be kept inviolable, and where that Supreme power hath been in any wiſe ſuſpended or ecclipſed, ſuch a redreſſe may be made as becomes the greatneſſe thereof. That no mem<g ref="char:EOLhyphen"/>bers of Parliament who have been or ſhall appeare in this unnaturall warre againſt you be readmitted, and ſpeciall care taken that ſuch onely be continued and placed in the publique ſervices and imployments of Parliament and Kingdome, as have given full teſtimony of their zeale, judgement, and fidelity. And though our deſires are, That their portion may be to periſh in inteſtine warres that delight in them, yet they likewiſe are, That the Kings returne to his Kingly office and the Parliament in a well ſetled peace (which wee daily pray for) may ne<g ref="char:EOLhyphen"/>ver be purchaſed by ſuch conditions as thereby either to leave the truth and life of our Religion and Laws unſe<g ref="char:EOLhyphen"/>cured, or give opportunitie to involve us and our poſte<g ref="char:EOLhyphen"/>ritie in perpetuall thraldome. That the Nationall Co<g ref="char:EOLhyphen"/>venant already concluded may be with ſuch ſpeed and care perſonally propoſed, that thereby the well-affected of the Kingdome being both in hearts and hands united, our friends from foes may be diſtinguiſhed, and wee
+<pb n="8" facs="tcp:155348:7"/>
+               <!-- PDF PAGE 21 -->thereby enabled to preſerve and defend our ſelves, both in peace and warre. That you would alſo conſider that the eyes of Chriſtendom are upon <hi>Englands</hi> Parliament, and that publique and private prayer and dayes of Faſting in this and many forraigne Nations are ſet apart and powred forth to Heaven, as for your perſons ſo to pro<g ref="char:EOLhyphen"/>duce your conceptions and beginnings of a perfect refor<g ref="char:EOLhyphen"/>mation unto a glorious birth. For your faithfull indea<g ref="char:EOLhyphen"/>vours wherein, as you have ingaged your ſelves (though you ſhould periſh in the worke;) ſo be pleaſed ſtill to conclude, that whileſt with undaunted Reſolutions you perſiſt therein, you ſhall not finde in us, (nor wee hope) in the reſt of the Kingdome any defection in the further expoſing of our lives and livelihoods for the advancing and crowning of ſo good a cauſe. For our love and zeale to which onely wee have in all humility and faithfulnes preſented theſe our apprehenſions and deſires, ſubmitting the ſame to your grave Wiſdoms.</p>
+            <closer>And ſhall ever pray, &amp;c.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
